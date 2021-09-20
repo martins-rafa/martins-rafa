@@ -26,4 +26,4 @@
 ##
 
 ### 📫 Connect with me
-<a href="https://www.linkedin.com/in/rafael-martins-4221ab1b0/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/></a>
+<a href="https://www.linkedin.com/in/rafael-martins-4221ab1b0/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/></a>
