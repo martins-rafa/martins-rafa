@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hand waving emoji" width="25px">, I'm Rafa Martins!</h1>
 
-  <h3>A Brazilian Front-End Developer<br>🇧🇷</h3>
+  <h3>A Front-End Developer<br>🇧🇷</h3>
 </div>
 
 ### 😄 About Me 
