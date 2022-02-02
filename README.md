@@ -6,8 +6,7 @@
 
 ### 😄 About Me 
 - I really enjoy programming and designing, creating useful applications and websites; 
-- Always doing my best;
-- I love games, magic, psychology, music, literature...
+- I love games, magic, psychology, music, literature.
 
 ##
 
@@ -27,3 +26,4 @@
 
 ### 📫 Connect with me
 <a href="https://www.linkedin.com/in/rafael-martins-4221ab1b0/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/></a>
+<a href="https://twitter.com/devRafaMartins" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px"/></a>
