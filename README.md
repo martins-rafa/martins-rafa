@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hand waving emoji" width="25px">, I'm Rafa Martins!</h1>
 
-  <h3>Front-End Developer<br>🇧🇷</h3>
+  <h3>Front-End Developer</h3>
 </div>
 
 ### 😄 About Me 
@@ -26,4 +26,4 @@
 
 ### 📫 Connect with me
 <a href="https://www.linkedin.com/in/rafael-martins-4221ab1b0/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/></a>
-<a href="https://twitter.com/devRafaMartins" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px"/></a>
+<a href="https://twitter.com/RafaMartins_dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px"/></a>
